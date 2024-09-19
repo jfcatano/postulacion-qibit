@@ -1,5 +1,14 @@
-Soy un joven desarrollador de software, graduado de Tecnología en Análisis y Desarrollo de Software con enfoque y experiencia en el desarrollo backend, modelado de bases de datos, administración de servidores Linux y administración de servicios en la nube. Estoy en búsqueda de una oportunidad y un gran reto en el cual trabajar. 
+Soy un joven desarrollador de software, graduado de Tecnología en Análisis y Desarrollo de Software con enfoque y experiencia en el
+desarrollo backend, modelado de bases de datos, administración de servidores Linux y administración de servicios en la nube. Estoy
+en búsqueda de una oportunidad y un gran reto en el cual trabajar. 
 
-Me encanta desarrollar, y más que eso crear cosas nuevas. Es todo un desafío (me encantan los retos y desafíos), y por eso es realmente atractivo e interesante. No es solo crear código, sino pensar en soluciones a distintos problemas, aprender en el proceso, y conseguir la satisfacción de ver cómo cobran vida los proyectos en los que tantos trabajé. Hace un tiempo leí una frase que decía: \"Si lo crees, lo creas.\", y estoy totalmente alineado con ella. Si podemos creer y pensar algo, lo podemos crear. Esa es la base de todo. Si podemos pensarlo, aunque no tengamos el conocimiento, buscamos la manera de aprender, y luego poder crear eso que en un inicio pensamos. Y así es que se vuelve interesante y apasionante.
+Me encanta desarrollar, y más que eso crear cosas nuevas. Es todo un desafío (me encantan los retos y desafíos), y por eso es realmente 
+atractivo e interesante. No es solo crear código, sino pensar en soluciones a distintos problemas, aprender en el proceso, y conseguir
+la satisfacción de ver cómo cobran vida los proyectos en los que tantos trabajé. Hace un tiempo leí una frase que decía: "Si lo crees,
+lo creas.", y estoy totalmente alineado con ella. Si podemos creer y pensar algo, lo podemos crear. Esa es la base de todo. Si podemos 
+pensarlo, aunque no tengamos el conocimiento, buscamos la manera de aprender, y luego poder crear eso que en un inicio pensamos. Y así 
+es que se vuelve interesante y apasionante.
 
-Durante mi experiencia tuve la oportunidad de aplicar todo esto, pude pensar cosas nuevas, dar ideas, enseñar y aprender en el camino, y luego demostrar todos esos conocimientos adquiridos poniéndolos en práctica, fuera durante el desarrollo, u optimizando procesos existentes. (Como automatización de despliegues).
+Durante mi experiencia tuve la oportunidad de aplicar todo esto, pude pensar cosas nuevas, dar ideas, enseñar y aprender en el camino,
+y luego demostrar todos esos conocimientos adquiridos poniéndolos en práctica, fuera durante el desarrollo, u optimizando procesos
+existentes. (Como automatización de despliegues).
